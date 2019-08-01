@@ -1,0 +1,2 @@
+The time is inputed and is passed to the user defined function to convert it to
+24-hour format....then an if statement is used to check whether its AM or PM..if its AM then the only change is when its 12(h)...so if its 12(h) then its changed to 00(h)...then if its PM then the else statement gets executed.. in the else statement there is no change if its 12(h)...if its not 12(h)....then 12 is added to the current hour...then the time is displayed without the AM/PM.  

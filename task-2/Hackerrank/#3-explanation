@@ -1,0 +1,1 @@
+First the length is inputed..then a user defined function is called to print  the pattern....spaces are printed till the second diagonal from the second diagonal # are printed...i used the same logic from the previous code to get the 2nd diagonal.

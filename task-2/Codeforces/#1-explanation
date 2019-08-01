@@ -1,0 +1,1 @@
+First the dimentions of the Theatre Square and the flagstones are inputted.These values are sent to a user defined function.The number of flagstones which can be placed(without cutting)along the length and the breadth of square is calculated.this is multiplied to get the total number of flagstones used.
